@@ -1,0 +1,49 @@
+team,group,confederation,fifa_ranking,coach,coach_nationality,matches_played,wins,draws,losses,goals_for,goals_against,goal_difference,points,world_cup_titles,best_result,debut_2026,continent
+Mexico,A,CONCACAF,14,Javier Aguirre,Mexican,1,1,0,0,2,0,2,3,0,Quarter-finals,FALSE,North America
+South Africa,A,CAF,60,Hugo Broos,Belgian,2,0,1,1,1,3,-2,1,0,Group stage,FALSE,Africa
+South Korea,A,AFC,25,Hong Myung-bo,South Korean,1,1,0,0,2,1,1,3,0,Fourth place,FALSE,Asia
+Czechia,A,UEFA,40,Miroslav Koubek,Czech,2,0,1,1,2,3,-1,1,0,Runners-up,FALSE,Europe
+Canada,B,CONCACAF,30,Jesse Marsch,American,1,0,1,0,1,1,0,1,0,Group stage,FALSE,North America
+Switzerland,B,UEFA,19,Murat Yakin,Swiss,2,1,1,0,5,2,3,4,0,Quarter-finals,FALSE,Europe
+Qatar,B,AFC,56,Julen Lopetegui,Spanish,1,0,1,0,1,1,0,1,0,Group stage,FALSE,Asia
+Bosnia and Herzegovina,B,UEFA,64,Sergej Barbarez,Bosnian,2,0,1,1,2,5,-3,1,0,Group stage,FALSE,Europe
+Brazil,C,CONMEBOL,6,Carlo Ancelotti,Italian,1,0,1,0,1,1,0,1,5,Winners,FALSE,South America
+Morocco,C,CAF,7,Walid Regragui,Moroccan,1,0,1,0,1,1,0,1,0,Fourth place,FALSE,Africa
+Haiti,C,CONCACAF,82,Sébastien Migné,French,1,0,0,1,0,1,-1,0,0,Group stage,FALSE,North America
+Scotland,C,UEFA,42,Steve Clarke,Scottish,1,1,0,0,1,0,1,3,0,Group stage,FALSE,Europe
+USA,D,CONCACAF,17,Mauricio Pochettino,Argentine,1,1,0,0,4,1,3,3,0,Third place,FALSE,North America
+Paraguay,D,CONMEBOL,41,Gustavo Alfaro,Argentine,1,0,0,1,1,4,-3,0,0,Round of 16,FALSE,South America
+Australia,D,AFC,27,Tony Popovic,Australian,1,1,0,0,2,0,2,3,0,Round of 16,FALSE,Oceania
+Türkiye,D,UEFA,22,Vincenzo Montella,Italian,1,0,0,1,0,2,-2,0,0,Third place,FALSE,Europe
+Germany,E,UEFA,10,Julian Nagelsmann,German,1,1,0,0,7,1,6,3,4,Winners,FALSE,Europe
+Curaçao,E,CONCACAF,83,Dick Advocaat,Dutch,1,0,0,1,1,7,-6,0,0,,TRUE,North America
+Ivory Coast,E,CAF,33,Emerse Faé,Ivorian,1,1,0,0,1,0,1,3,0,Group stage,FALSE,Africa
+Ecuador,E,CONMEBOL,23,Sebastián Beccacece,Argentine,1,0,0,1,0,1,-1,0,0,Round of 16,FALSE,South America
+Netherlands,F,UEFA,8,Ronald Koeman,Dutch,1,0,1,0,2,2,0,1,0,Runners-up,FALSE,Europe
+Japan,F,AFC,18,Hajime Moriyasu,Japanese,1,0,1,0,2,2,0,1,0,Round of 16,FALSE,Asia
+Tunisia,F,CAF,45,Sami Trabelsi,Tunisian,1,0,0,1,1,5,-4,0,0,Group stage,FALSE,Africa
+Sweden,F,UEFA,38,Graham Potter,English,1,1,0,0,5,1,4,3,0,Runners-up,FALSE,Europe
+Belgium,G,UEFA,9,Rudi Garcia,French,1,0,1,0,1,1,0,1,0,Third place,FALSE,Europe
+Egypt,G,CAF,29,Hossam Hassan,Egyptian,1,0,1,0,1,1,0,1,0,Group stage,FALSE,Africa
+Iran,G,AFC,20,Amir Ghalenoei,Iranian,1,0,1,0,2,2,0,1,0,Group stage,FALSE,Asia
+New Zealand,G,OFC,85,Darren Bazeley,New Zealander,1,0,1,0,2,2,0,1,0,Group stage,FALSE,Oceania
+Spain,H,UEFA,2,Luis de la Fuente,Spanish,1,0,1,0,0,0,0,1,1,Winners,FALSE,Europe
+Cape Verde,H,CAF,67,Bubista,Cape Verdean,1,0,1,0,0,0,0,1,0,,TRUE,Africa
+Saudi Arabia,H,AFC,61,Giorgos Donis,Greek,1,0,1,0,1,1,0,1,0,Round of 16,FALSE,Asia
+Uruguay,H,CONMEBOL,16,Marcelo Bielsa,Argentine,1,0,1,0,1,1,0,1,2,Winners,FALSE,South America
+France,I,UEFA,3,Didier Deschamps,French,1,1,0,0,3,1,2,3,2,Winners,FALSE,Europe
+Senegal,I,CAF,15,Pape Thiaw,Senegalese,1,0,0,1,1,3,-2,0,0,Quarter-finals,FALSE,Africa
+Norway,I,UEFA,31,Ståle Solbakken,Norwegian,1,1,0,0,4,1,3,3,0,,FALSE,Europe
+Iraq,I,AFC,57,Graham Arnold,Australian,1,0,0,1,1,4,-3,0,0,Group stage,FALSE,Asia
+Argentina,J,CONMEBOL,1,Lionel Scaloni,Argentine,1,1,0,0,3,0,3,3,3,Winners,FALSE,South America
+Algeria,J,CAF,28,Vladimir Petković,Bosnian,1,0,0,1,0,3,-3,0,0,Round of 16,FALSE,Africa
+Austria,J,UEFA,24,Ralf Rangnick,German,1,1,0,0,3,1,2,3,0,Third place,FALSE,Europe
+Jordan,J,AFC,63,Jamal Sellami,Moroccan,1,0,0,1,1,3,-2,0,0,,TRUE,Asia
+Portugal,K,UEFA,5,Roberto Martínez,Spanish,1,0,1,0,1,1,0,1,0,Third place,FALSE,Europe
+Uzbekistan,K,AFC,50,Fabio Cannavaro,Italian,1,0,0,1,1,3,-2,0,0,,TRUE,Asia
+Colombia,K,CONMEBOL,13,Néstor Lorenzo,Argentine,1,1,0,0,3,1,2,3,0,Quarter-finals,FALSE,South America
+DR Congo,K,CAF,46,Sébastien Desabre,French,1,0,1,0,1,1,0,1,0,Quarter-finals,FALSE,Africa
+England,L,UEFA,4,Thomas Tuchel,German,1,1,0,0,4,2,2,3,1,Winners,FALSE,Europe
+Croatia,L,UEFA,11,Zlatko Dalić,Croatian,1,0,0,1,2,4,-2,0,0,Runners-up,FALSE,Europe
+Ghana,L,CAF,73,Otto Addo,German,1,1,0,0,1,0,1,3,0,Quarter-finals,FALSE,Africa
+Panama,L,CONCACAF,34,Thomas Christiansen,Danish,1,0,0,1,0,1,-1,0,0,Group stage,FALSE,North America
