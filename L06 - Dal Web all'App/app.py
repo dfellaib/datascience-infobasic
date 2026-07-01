@@ -12,7 +12,7 @@ st.title("⚽ Mondiale 2026 — Dashboard")
 st.caption("Dati estratti da Wikipedia e analizzati su Colab")
 
 # --- CARICA IL CSV (generato dal notebook Colab) ---
-df = pd.read_csv('mondiale_2026_gironi.csv')
+df = pd.read_csv("L06 - Dal Web all'App/mondiale_2026_gironi.csv")
 
 # --- SIDEBAR: FILTRI ---
 st.sidebar.header("Filtri")
